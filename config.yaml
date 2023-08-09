@@ -1,0 +1,9 @@
+params:
+  app_name: "mlopssagemaker1"
+  execution_role_arn: "arn:aws:iam::959204034506:role/mlops-aws-001"
+  region: "ap-south-1"
+  run_id: "13c65dc6faf542a582ce385aad2e4dde"
+  s3_bucket_name: "mlops-s3-001"
+  model_name: "model"
+  experiment_id: "0"
+  image_ecr_url: "959204034506.dkr.ecr.ap-south-1.amazonaws.com/mlflow-pyfunc:1.30.1"
