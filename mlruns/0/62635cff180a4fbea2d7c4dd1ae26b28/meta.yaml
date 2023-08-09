@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/MAchine_Learning/mlflow_aws_sagemaker/mlruns/0/62635cff180a4fbea2d7c4dd1ae26b28/artifacts
+end_time: 1691376300199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 62635cff180a4fbea2d7c4dd1ae26b28
+run_uuid: 62635cff180a4fbea2d7c4dd1ae26b28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691376291214
+status: 4
+tags: []
+user_id: prath
